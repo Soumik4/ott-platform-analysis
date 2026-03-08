@@ -1,2 +1,2 @@
 # ott-platform-analysis
-Data analysis project comparing Netflix and Amazon Prime Video using Python, Pandas, Matplotlib, and Seaborn to visualize trends in watch hours, hit titles, and platform performance.
+This project performs exploratory data analysis (EDA) on OTT streaming platforms to compare the performance of Netflix and Amazon Prime Video. Using Python libraries such as Pandas, Matplotlib, and Seaborn, the project visualizes trends in total watch hours, hit titles, and yearly platform performance. The goal is to uncover insights about streaming trends and platform growth through data visualization.
